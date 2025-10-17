@@ -13,7 +13,8 @@ Netz-Informatique-Pub/
 ├── designs/                     # Logo tasarımları ve konseptler
 ├── charte-graphique/           # Grafik şartnamesi
 ├── mockups/                    # Uygulama örnekleri
-└── final-report/               # Nihai rapor ve sunumlar
+├── final-report/               # Nihai rapor ve sunumlar
+└── website-prototype/          # Web sitesi prototipi (React + Tailwind)
 ```
 
 ## Çalışma Aşamaları
