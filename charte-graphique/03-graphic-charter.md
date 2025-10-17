@@ -1,30 +1,30 @@
 # Netz Informatique - Charte Graphique (Grafik Şartnamesi)
 
-## Giriş
+## Introduction
 
-Bu belge, Netz Informatique'in görsel kimliğinin tüm mecralarda tutarlı ve profesyonel bir şekilde kullanılmasını sağlamak için hazırlanmıştır. Grafik şartnamesi, logo kullanım kuralları, renk paleti, tipografi, ikon sistemi ve uygulama örneklerini içerir.
+Ce document est préparé pour assurer que l'identité visuelle de Netz Informatique soit utilisée de manière cohérente et professionnelle sur tous les supports. La Charte Graphique comprend les règles d'utilisation du logo, la palette de couleurs, la typographie, le système d'icônes et des exemples d'application.
 
 ---
 
-## 1. LOGO KULLANIM KURALLARI
+## 1. RÈGLES D'UTILISATION DU LOGO
 
-### 1.1 Ana Logo Versiyonları
+### 1.1 Versions Principales du Logo
 
-**Versiyon 1: Tam Logo (Logo + Yazı)**
-- **Kullanım Alanları:** Web sitesi başlığı, kurumsal kimlik, resmi belgeler
-- **Minimum Genişlik:** 120px (dijital), 30mm (print)
+**Version 1 : Logo Complet (Logo + Texte)**
+- **Domaines d'utilisation :** Entête de site web, identité corporative, documents officiels
+- **Largeur Minimale :** 120px (digital), 30mm (print)
 
-**Versiyon 2: Logo İşareti (Sadece Simge)**
-- **Kullanım Alanları:** Mobil uygulama simgesi, sosyal medya profil fotoğrafı, favicon
-- **Minimum Genişlik:** 48px (dijital), 15mm (print)
+**Version 2 : Icône du Logo (Symbole Seulement)**
+- **Domaines d'utilisation :** Icône d'application mobile, photo de profil de réseaux sociaux, favicon
+- **Largeur Minimale :** 48px (digital), 15mm (print)
 
-**Versiyon 3: Yatay Logo (Simge + Yazı Yan Yana)**
-- **Kullanım Alanları:** E-posta imzası, dar alanlar, footer
-- **Minimum Genişlik:** 150px (dijital), 40mm (print)
+**Version 3 : Logo Horizontal (Symbole + Texte Côte à Côte)**
+- **Domaines d'utilisation :** Signature d'e-mail, espaces restreints, footer
+- **Largeur Minimale :** 150px (digital), 40mm (print)
 
-### 1.2 Koruma Alanı (Clear Space)
+### 1.2 Zone de Protection (Clear Space)
 
-Logo etrafında **minimum boşluk** bırakılmalıdır. Bu boşluk, logonun "N" harfinin yüksekliğinin **%50'si** kadardır.
+Un **espace vide minimum** doit être laissé autour du logo. Cet espace est égal à **50%** de la hauteur de la lettre "N" du logo.
 
 ```
 [Koruma Alanı Diyagramı]
@@ -39,403 +39,403 @@ Logo etrafında **minimum boşluk** bırakılmalıdır. Bu boşluk, logonun "N" 
 └─────────────────────────────┘
 ```
 
-### 1.3 Minimum Boyutlar
+### 1.3 Dimensions Minimales
 
-**Dijital Mecralar:**
-- **Tam Logo:** Minimum 120px genişlik
-- **Logo İşareti:** Minimum 48px genişlik
-- **Yatay Logo:** Minimum 150px genişlik
+**Supports Digitaux :**
+- **Logo Complet :** Largeur minimale de 120px
+- **Icône du Logo :** Largeur minimale de 48px
+- **Logo Horizontal :** Largeur minimale de 150px
 
-**Print Mecralar:**
-- **Tam Logo:** Minimum 30mm genişlik
-- **Logo İşareti:** Minimum 15mm genişlik
-- **Yatay Logo:** Minimum 40mm genişlik
+**Supports Print :**
+- **Logo Complet :** Largeur minimale de 30mm
+- **Icône du Logo :** Largeur minimale de 15mm
+- **Logo Horizontal :** Largeur minimale de 40mm
 
-**Gerekçe:** Bu boyutların altında, logo detayları kaybolur ve okunabilirlik azalır.
+**Justification :** En dessous de ces dimensions, les détails du logo disparaissent et la lisibilité diminue.
 
-### 1.4 Renk Versiyonları
+### 1.4 Versions de Couleur
 
-**Ana Versiyon (Renkli):**
-- **Kullanım:** Beyaz veya açık gri arka planlarda
-- **Renkler:** Lacivert (#1A2B4A) + Elektrik Mavisi (#00A8E8)
+**Version Principale (Couleur) :**
+- **Utilisation :** Sur fonds blancs ou gris clair
+- **Couleurs :** Bleu Marine (#1A2B4A) + Bleu Électrique (#00A8E8)
 
-**Ters Versiyon (Beyaz):**
-- **Kullanım:** Koyu arka planlarda (lacivert, siyah, koyu gri)
-- **Renkler:** Beyaz (#FFFFFF)
+**Version Inversée (Blanche) :**
+- **Utilisation :** Sur fonds sombres (bleu marine, noir, gris foncé)
+- **Couleurs :** Blanc (#FFFFFF)
 
-**Tek Renk Versiyon (Lacivert):**
-- **Kullanım:** Siyah-beyaz print, faks, damga
-- **Renkler:** Lacivert (#1A2B4A)
+**Version Unicolore (Bleu Marine) :**
+- **Utilisation :** Impression noir et blanc, fax, tampon
+- **Couleurs :** Bleu Marine (#1A2B4A)
 
-**Tek Renk Versiyon (Siyah):**
-- **Kullanım:** Siyah-beyaz print, fotokopilenebilir belgeler
-- **Renkler:** Siyah (#000000)
+**Version Unicolore (Noire) :**
+- **Utilisation :** Impression noir et blanc, documents photocopiables
+- **Couleurs :** Noir (#000000)
 
-### 1.5 YANLIŞ KULLANIM ÖRNEKLERİ
+### 1.5 EXEMPLES D'UTILISATION INCORRECTE
 
-❌ **YAPILMAMASI GEREKENLER:**
+❌ **CE QU'IL NE FAUT PAS FAIRE :**
 
-1. **Renk Değişikliği:** Logonun renklerini değiştirmek (örn: kırmızı, yeşil)
-2. **Orantı Bozma:** Logoyu yatay veya dikey olarak deforme etmek
-3. **Gölge/Efekt Ekleme:** Logoya gölge, gradyan veya 3D efekt eklemek
-4. **Döndürme:** Logoyu açı ile döndürmek (sadece 0° veya 180° kabul edilir)
-5. **Yetersiz Kontrast:** Logoyu benzer renkteki arka planlarda kullanmak (örn: mavi logo, mavi arka plan)
-6. **Koruma Alanını İhlal Etme:** Logo etrafında yeterli boşluk bırakmamak
-7. **Düşük Çözünürlük:** Bulanık veya pixelli logo kullanmak
-
----
-
-## 2. RENK PALETİ
-
-### 2.1 Ana Renkler
-
-#### Lacivert (Primary Navy)
-- **HEX:** #1A2B4A
-- **RGB:** R:26, G:43, B:74
-- **CMYK:** C:100, M:85, Y:35, K:50
-- **Pantone:** 2767 C (yakın eşdeğer)
-
-**Kullanım Alanları:**
-- Logo ana rengi
-- Başlıklar (H1, H2)
-- Butonlar (primary)
-- Footer arka planı
-
-**Psikolojik Etki:** Güvenilirlik, profesyonellik, istikrar
+1. **Changement de Couleur :** Modifier les couleurs du logo (ex : rouge, vert)
+2. **Déformation des Proportions :** Déformer le logo horizontalement ou verticalement
+3. **Ajout d'Ombre/Effet :** Ajouter des ombres, des gradients ou des effets 3D au logo
+4. **Rotation :** Faire pivoter le logo avec un angle (seuls 0° ou 180° sont acceptés)
+5. **Contraste Insuffisant :** Utiliser le logo sur des fonds de couleurs similaires (ex : logo bleu, fond bleu)
+6. **Violation de la Zone de Protection :** Ne pas laisser suffisamment d'espace autour du logo
+7. **Basse Résolution :** Utiliser un logo flou ou pixellisé
 
 ---
 
-#### Elektrik Mavisi (Accent Electric Blue)
-- **HEX:** #00A8E8
-- **RGB:** R:0, G:168, B:232
-- **CMYK:** C:70, M:10, Y:0, K:0
-- **Pantone:** 2995 C (yakın eşdeğer)
+## 2. PALETTE DE COULEURS
 
-**Kullanım Alanları:**
-- Logo aksan rengi
-- Linkler
-- Butonlar (hover durumu)
-- İkonlar (vurgu)
-- Grafikler (aksan)
+### 2.1 Couleurs Principales
 
-**Psikolojik Etki:** Teknoloji, yenilikçilik, hız
+#### Bleu Marine (Primary Navy)
+- **HEX :** #1A2B4A
+- **RGB :** R:26, G:43, B:74
+- **CMYK :** C:100, M:85, Y:35, K:50
+- **Pantone :** 2767 C (équivalent proche)
 
----
+**Domaines d'utilisation :**
+- Couleur principale du logo
+- Titres (H1, H2)
+- Boutons (primary)
+- Fond de footer
 
-### 2.2 Nötr Renkler
-
-#### Açık Gri (Light Gray)
-- **HEX:** #F5F5F5
-- **RGB:** R:245, G:245, B:245
-- **CMYK:** C:0, M:0, Y:0, K:4
-
-**Kullanım Alanları:**
-- Arka planlar
-- Kartlar (card backgrounds)
-- Bölüm ayırıcılar
+**Impact Psychologique :** Fiabilité, professionnalisme, stabilité
 
 ---
 
-#### Orta Gri (Medium Gray)
-- **HEX:** #B0B0B0
-- **RGB:** R:176, G:176, B:176
-- **CMYK:** C:0, M:0, Y:0, K:31
+#### Bleu Électrique (Accent Electric Blue)
+- **HEX :** #00A8E8
+- **RGB :** R:0, G:168, B:232
+- **CMYK :** C:70, M:10, Y:0, K:0
+- **Pantone :** 2995 C (équivalent proche)
 
-**Kullanım Alanları:**
-- Bağlantı çizgileri (logo)
-- İkonlar (pasif durum)
-- Placeholder metinler
+**Domaines d'utilisation :**
+- Couleur d'accentuation du logo
+- Liens
+- Boutons (état de survol)
+- Icônes (accentuation)
+- Graphiques (accentuation)
 
----
-
-#### Koyu Gri (Dark Gray)
-- **HEX:** #2C3E50
-- **RGB:** R:44, G:62, B:80
-- **CMYK:** C:80, M:60, Y:40, K:50
-
-**Kullanım Alanları:**
-- Gövde metni (body text)
-- Alt başlıklar (H3, H4)
-- Navigasyon menüsü
+**Impact Psychologique :** Technologie, innovation, rapidité
 
 ---
 
-### 2.3 Destekleyici Renkler
+### 2.2 Couleurs Neutres
 
-#### Başarı Yeşili (Success Green)
-- **HEX:** #27AE60
-- **RGB:** R:39, G:174, B:96
-- **CMYK:** C:70, M:0, Y:70, K:0
+#### Gris Clair (Light Gray)
+- **HEX :** #F5F5F5
+- **RGB :** R:245, G:245, B:245
+- **CMYK :** C:0, M:0, Y:0, K:4
 
-**Kullanım Alanları:**
-- Başarı mesajları
-- Onay butonları
-- Pozitif göstergeler (grafikler)
-
----
-
-#### Uyarı Turuncusu (Warning Orange)
-- **HEX:** #F39C12
-- **RGB:** R:243, G:156, B:18
-- **CMYK:** C:0, M:40, Y:95, K:0
-
-**Kullanım Alanları:**
-- Uyarı mesajları
-- Dikkat gerektiren elementler
+**Domaines d'utilisation :**
+- Arrière-plans
+- Cartes (card backgrounds)
+- Séparateurs de section
 
 ---
 
-#### Hata Kırmızısı (Error Red)
-- **HEX:** #E74C3C
-- **RGB:** R:231, G:76, B:60
-- **CMYK:** C:0, M:80, Y:80, K:0
+#### Gris Moyen (Medium Gray)
+- **HEX :** #B0B0B0
+- **RGB :** R:176, G:176, B:176
+- **CMYK :** C:0, M:0, Y:0, K:31
 
-**Kullanım Alanları:**
-- Hata mesajları
-- Silme butonları
-- Negatif göstergeler (grafikler)
-
----
-
-### 2.4 Renk Kullanım Oranları
-
-**Genel Kural (60-30-10 Prensibi):**
-- **%60:** Nötr renkler (Açık Gri, Beyaz) - Arka planlar
-- **%30:** Ana renk (Lacivert) - Başlıklar, butonlar
-- **%10:** Aksan renk (Elektrik Mavisi) - Vurgular, linkler
+**Domaines d'utilisation :**
+- Lignes de connexion (logo)
+- Icônes (état passif)
+- Textes d'espace réservé
 
 ---
 
-## 3. TİPOGRAFİ
+#### Gris Foncé (Dark Gray)
+- **HEX :** #2C3E50
+- **RGB :** R:44, G:62, B:80
+- **CMYK :** C:80, M:60, Y:40, K:50
 
-### 3.1 Ana Font: Inter
+**Domaines d'utilisation :**
+- Corps de texte (body text)
+- Sous-titres (H3, H4)
+- Menu de navigation
 
-**Neden Inter?**
-- Yüksek okunabilirlik (ekran ve print)
-- Modern ve profesyonel görünüm
-- Geniş karakter seti (çok dilli destek)
-- Açık kaynak (ücretsiz kullanım)
+---
 
-**Font Ağırlıkları:**
-- **Inter Light (300):** Uzun metinler, açıklamalar
-- **Inter Regular (400):** Gövde metni (body text)
-- **Inter Medium (500):** Alt başlıklar (H3, H4)
-- **Inter SemiBold (600):** Logo, başlıklar (H1, H2)
-- **Inter Bold (700):** Vurgu (emphasis), buton metinleri
+### 2.3 Couleurs de Support
 
-### 3.2 Yedek Font: System Sans-Serif
+#### Vert Succès (Success Green)
+- **HEX :** #27AE60
+- **RGB :** R:39, G:174, B:96
+- **CMYK :** C:70, M:0, Y:70, K:0
 
-**Web için Fallback:**
+**Domaines d'utilisation :**
+- Messages de succès
+- Boutons de confirmation
+- Indicateurs positifs (graphiques)
+
+---
+
+#### Orange Avertissement (Warning Orange)
+- **HEX :** #F39C12
+- **RGB :** R:243, G:156, B:18
+- **CMYK :** C:0, M:40, Y:95, K:0
+
+**Domaines d'utilisation :**
+- Messages d'avertissement
+- Éléments nécessitant une attention particulière
+
+---
+
+#### Rouge Erreur (Error Red)
+- **HEX :** #E74C3C
+- **RGB :** R:231, G:76, B:60
+- **CMYK :** C:0, M:80, Y:80, K:0
+
+**Domaines d'utilisation :**
+- Messages d'erreur
+- Boutons de suppression
+- Indicateurs négatifs (graphiques)
+
+---
+
+### 2.4 Proportions d'Utilisation des Couleurs
+
+**Règle Générale (Principe 60-30-10) :**
+- **60% :** Couleurs neutres (Gris Clair, Blanc) - Arrière-plans
+- **30% :** Couleur principale (Bleu Marine) - Titres, boutons
+- **10% :** Couleur d'accent (Bleu Électrique) - Mises en évidence, liens
+
+---
+
+## 3. TYPOGRAPHIE
+
+### 3.1 Police Principale : Inter
+
+**Pourquoi Inter ?**
+- Haute lisibilité (écran et print)
+- Apparence moderne et professionnelle
+- Large jeu de caractères (support multilingue)
+- Open source (utilisation gratuite)
+
+**Graisses de Police :**
+- **Inter Light (300) :** Textes longs, descriptions
+- **Inter Regular (400) :** Corps de texte (body text)
+- **Inter Medium (500) :** Sous-titres (H3, H4)
+- **Inter SemiBold (600) :** Logo, titres (H1, H2)
+- **Inter Bold (700) :** Emphase (emphasis), textes de boutons
+
+### 3.2 Police de Remplacement : System Sans-Serif
+
+**Fallback pour le Web :**
 ```css
 font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 
              'Roboto', 'Helvetica Neue', Arial, sans-serif;
 ```
 
-### 3.3 Tipografi Hiyerarşisi
+### 3.3 Hiérarchie Typographique
 
-#### Başlıklar (Headings)
+#### Titres (Headings)
 
-**H1 (Ana Başlık):**
-- **Font:** Inter SemiBold (600)
-- **Boyut:** 48px (web), 36pt (print)
-- **Renk:** Lacivert (#1A2B4A)
-- **Satır Aralığı:** 1.2
-- **Kullanım:** Sayfa başlıkları, hero bölümleri
+**H1 (Titre Principal) :**
+- **Police :** Inter SemiBold (600)
+- **Taille :** 48px (web), 36pt (print)
+- **Couleur :** Bleu Marine (#1A2B4A)
+- **Interligne :** 1.2
+- **Utilisation :** Titres de page, sections hero
 
-**H2 (Alt Başlık):**
-- **Font:** Inter SemiBold (600)
-- **Boyut:** 36px (web), 24pt (print)
-- **Renk:** Lacivert (#1A2B4A)
-- **Satır Aralığı:** 1.3
-- **Kullanım:** Bölüm başlıkları
+**H2 (Sous-Titre) :**
+- **Police :** Inter SemiBold (600)
+- **Taille :** 36px (web), 24pt (print)
+- **Couleur :** Bleu Marine (#1A2B4A)
+- **Interligne :** 1.3
+- **Utilisation :** Titres de section
 
-**H3 (Küçük Başlık):**
-- **Font:** Inter Medium (500)
-- **Boyut:** 24px (web), 18pt (print)
-- **Renk:** Koyu Gri (#2C3E50)
-- **Satır Aralığı:** 1.4
-- **Kullanım:** Alt bölüm başlıkları
+**H3 (Petit Titre) :**
+- **Police :** Inter Medium (500)
+- **Taille :** 24px (web), 18pt (print)
+- **Couleur :** Gris Foncé (#2C3E50)
+- **Interligne :** 1.4
+- **Utilisation :** Titres de sous-section
 
-**H4 (Mikro Başlık):**
-- **Font:** Inter Medium (500)
-- **Boyut:** 18px (web), 14pt (print)
-- **Renk:** Koyu Gri (#2C3E50)
-- **Satır Aralığı:** 1.5
-- **Kullanım:** Kart başlıkları, liste başlıkları
+**H4 (Micro Titre) :**
+- **Police :** Inter Medium (500)
+- **Taille :** 18px (web), 14pt (print)
+- **Couleur :** Gris Foncé (#2C3E50)
+- **Interligne :** 1.5
+- **Utilisation :** Titres de carte, titres de liste
 
-#### Gövde Metni (Body Text)
+#### Corps de Texte (Body Text)
 
-**Paragraf (Normal):**
-- **Font:** Inter Regular (400)
-- **Boyut:** 16px (web), 11pt (print)
-- **Renk:** Koyu Gri (#2C3E50)
-- **Satır Aralığı:** 1.6
-- **Kullanım:** Ana metin içeriği
+**Paragraphe (Normal) :**
+- **Police :** Inter Regular (400)
+- **Taille :** 16px (web), 11pt (print)
+- **Couleur :** Gris Foncé (#2C3E50)
+- **Interligne :** 1.6
+- **Utilisation :** Contenu de texte principal
 
-**Küçük Metin (Small):**
-- **Font:** Inter Regular (400)
-- **Boyut:** 14px (web), 9pt (print)
-- **Renk:** Orta Gri (#B0B0B0)
-- **Satır Aralığı:** 1.5
-- **Kullanım:** Açıklamalar, footer metni
+**Petit Texte (Small) :**
+- **Police :** Inter Regular (400)
+- **Taille :** 14px (web), 9pt (print)
+- **Couleur :** Gris Moyen (#B0B0B0)
+- **Interligne :** 1.5
+- **Utilisation :** Descriptions, texte de footer
 
-**Link (Bağlantı):**
-- **Font:** Inter Regular (400)
-- **Boyut:** 16px (web), 11pt (print)
-- **Renk:** Elektrik Mavisi (#00A8E8)
-- **Dekorasyon:** Altı çizili (hover durumunda)
-- **Kullanım:** Tıklanabilir bağlantılar
-
----
-
-## 4. İKON SİSTEMİ
-
-### 4.1 İkon Stili
-
-**Tasarım Dili:**
-- **Stil:** Line icons (çizgi ikonlar)
-- **Kalınlık:** 2px stroke
-- **Köşeler:** Yuvarlatılmış (rounded)
-- **Boyut:** 24x24px (standart), 48x48px (büyük)
-
-**Renk Kullanımı:**
-- **Aktif/Vurgu:** Elektrik Mavisi (#00A8E8)
-- **Pasif/Nötr:** Orta Gri (#B0B0B0)
-- **Arka Plan (Dolu İkonlar):** Lacivert (#1A2B4A)
-
-### 4.2 Önerilen İkon Kategorileri
-
-**Güvenlik İkonları:**
-- Kalkan (shield)
-- Kilit (lock)
-- Anahtar (key)
-- Sertifika (certificate)
-
-**Ağ/Bağlantı İkonları:**
-- Ağ düğümü (network node)
-- Bulut (cloud)
-- Sunucu (server)
-- Veri tabanı (database)
-
-**Hizmet İkonları:**
-- Destek (support)
-- Ayarlar (settings)
-- Analitik (analytics)
-- Raporlama (reporting)
-
-### 4.3 İkon Kütüphanesi Önerileri
-
-**Önerilen Kütüphaneler:**
-1. **Lucide Icons** (açık kaynak, modern)
-2. **Heroicons** (Tailwind CSS ile uyumlu)
-3. **Feather Icons** (minimalist, hafif)
+**Lien (Bağlantı) :**
+- **Police :** Inter Regular (400)
+- **Taille :** 16px (web), 11pt (print)
+- **Couleur :** Bleu Électrique (#00A8E8)
+- **Décoration :** Souligné (en état de survol)
+- **Utilisation :** Liens cliquables
 
 ---
 
-## 5. UYGULAMA ÖRNEKLERİ
+## 4. SYSTÈME D'ICÔNES
 
-### 5.1 Kurumsal Kimlik
+### 4.1 Style d'Icône
 
-**Kartvizit:**
-- **Ön Yüz:** Logo (tam versiyon), isim, ünvan, iletişim bilgileri
-- **Arka Yüz:** Lacivert arka plan, beyaz logo (ters versiyon)
-- **Boyut:** 85x55mm (standart)
+**Langage de Conception :**
+- **Style :** Line icons (icônes en ligne)
+- **Épaisseur :** 2px stroke
+- **Coins :** Arrondis (rounded)
+- **Taille :** 24x24px (standard), 48x48px (grand)
 
-**Antetli Kağıt:**
-- **Üst:** Logo (yatay versiyon), şirket bilgileri
-- **Alt:** İletişim bilgileri, web sitesi
-- **Boyut:** A4 (210x297mm)
+**Utilisation des Couleurs :**
+- **Actif/Accent :** Bleu Électrique (#00A8E8)
+- **Passif/Neutre :** Gris Moyen (#B0B0B0)
+- **Arrière-Plan (Icônes Pleines) :** Bleu Marine (#1A2B4A)
 
-**Zarf:**
-- **Ön:** Logo (küçük, sol üst köşe), adres alanı
-- **Arka:** Kapalı (logo veya marka rengi şerit)
-- **Boyut:** C4 (229x324mm) veya DL (110x220mm)
+### 4.2 Catégories d'Icônes Recommandées
 
-### 5.2 Dijital Mecralar
+**Icônes de Sécurité :**
+- Bouclier (shield)
+- Cadenas (lock)
+- Clé (key)
+- Certificat (certificate)
 
-**Web Sitesi:**
-- **Header:** Logo (tam versiyon), navigasyon menüsü
-- **Footer:** Logo (yatay versiyon), sosyal medya ikonları
-- **Renk Şeması:** Beyaz arka plan, lacivert başlıklar, elektrik mavisi aksan
+**Icônes de Réseau/Connexion :**
+- Nœud de réseau (network node)
+- Nuage (cloud)
+- Serveur (server)
+- Base de données (database)
 
-**Mobil Uygulama:**
-- **Simge:** Logo işareti (sadece simge)
-- **Splash Screen:** Logo (tam versiyon), lacivert arka plan
-- **Navigasyon:** İkonlar (elektrik mavisi aktif, gri pasif)
+**Icônes de Service :**
+- Support (support)
+- Paramètres (settings)
+- Analytique (analytics)
+- Reporting (reporting)
 
-**E-posta İmzası:**
-- **Logo:** Yatay versiyon (küçük)
-- **Bilgiler:** İsim, ünvan, telefon, e-posta, web sitesi
-- **Renk:** Lacivert metin, elektrik mavisi linkler
+### 4.3 Suggestions de Bibliothèque d'Icônes
 
-### 5.3 Pazarlama Materyalleri
-
-**Broşür:**
-- **Kapak:** Logo, ana başlık, görsel (teknoloji temalı)
-- **İç Sayfalar:** Başlıklar (lacivert), gövde metni (koyu gri), aksan (elektrik mavisi)
-- **Arka Kapak:** İletişim bilgileri, logo
-
-**Sunum (PowerPoint/Keynote):**
-- **Ana Slayt:** Logo (sağ üst köşe), başlık (lacivert), alt başlık (koyu gri)
-- **İçerik Slaytları:** Başlık (lacivert), madde işaretleri (elektrik mavisi)
-- **Son Slayt:** Logo (merkez), iletişim bilgileri
+**Bibliothèques Recommandées :**
+1. **Lucide Icons** (open source, moderne)
+2. **Heroicons** (compatible avec Tailwind CSS)
+3. **Feather Icons** (minimaliste, léger)
 
 ---
 
-## 6. YANLIŞ KULLANIM ÖRNEKLERİ
+## 5. EXEMPLES D'APPLICATION
 
-### 6.1 Renk Hataları
+### 5.1 Identité Corporative
 
-❌ **Yetersiz Kontrast:**
-- Açık gri arka planda beyaz metin
-- Elektrik mavisi arka planda lacivert metin
+**Carte de Visite :**
+- **Recto :** Logo (version complète), nom, titre, informations de contact
+- **Verso :** Fond bleu marine, logo blanc (version inversée)
+- **Taille :** 85x55mm (standard)
 
-✅ **Doğru Kullanım:**
-- Beyaz arka planda koyu gri metin
-- Lacivert arka planda beyaz metin
+**Papier à En-tête :**
+- **Haut :** Logo (version horizontale), informations sur l'entreprise
+- **Bas :** Informations de contact, site web
+- **Taille :** A4 (210x297mm)
 
-### 6.2 Tipografi Hataları
+**Enveloppe :**
+- **Avant :** Logo (petit, coin supérieur gauche), zone d'adresse
+- **Arrière :** Fermé (logo ou bande de couleur de la marque)
+- **Taille :** C4 (229x324mm) ou DL (110x220mm)
 
-❌ **Yanlış Font Kullanımı:**
-- Logo için Comic Sans veya Times New Roman
-- Başlıklar için ince (light) ağırlık
+### 5.2 Supports Digitaux
 
-✅ **Doğru Kullanım:**
-- Logo için Inter SemiBold
-- Başlıklar için Inter SemiBold veya Bold
+**Site Web :**
+- **Header :** Logo (version complète), menu de navigation
+- **Footer :** Logo (version horizontale), icônes de réseaux sociaux
+- **Schéma de Couleurs :** Arrière-plan blanc, titres bleu marine, accent bleu électrique
 
-### 6.3 Logo Hataları
+**Application Mobile :**
+- **Icône :** Icône du logo (symbole seulement)
+- **Splash Screen :** Logo (version complète), arrière-plan bleu marine
+- **Navigation :** Icônes (bleu électrique actif, gris passif)
 
-❌ **Orantı Bozma:**
-- Logoyu yatay veya dikey olarak sıkıştırmak
-- Koruma alanını ihlal etmek
+**Signature d'E-mail :**
+- **Logo :** Version horizontale (petite)
+- **Informations :** Nom, titre, téléphone, e-mail, site web
+- **Couleur :** Texte bleu marine, liens bleu électrique
 
-✅ **Doğru Kullanım:**
-- Logoyu orantılı olarak ölçeklendirmek
-- Yeterli koruma alanı bırakmak
+### 5.3 Matériel de Marketing
+
+**Brochure :**
+- **Couverture :** Logo, titre principal, visuel (thème technologique)
+- **Pages Intérieures :** Titres (bleu marine), corps de texte (gris foncé), accent (bleu électrique)
+- **Quatrième de Couverture :** Informations de contact, logo
+
+**Présentation (PowerPoint/Keynote) :**
+- **Diapositive Maître :** Logo (coin supérieur droit), titre (bleu marine), sous-titre (gris foncé)
+- **Diapositives de Contenu :** Titre (bleu marine), puces (bleu électrique)
+- **Dernière Diapositive :** Logo (centre), informations de contact
 
 ---
 
-## 7. DOSYA FORMATLARI VE DAĞITIM
+## 6. EXEMPLES D'UTILISATION INCORRECTE
 
-### 7.1 Logo Dosya Formatları
+### 6.1 Erreurs de Couleur
 
-**Vektör Formatlar (Ölçeklenebilir):**
-- **AI (Adobe Illustrator):** Orijinal tasarım dosyası
-- **EPS (Encapsulated PostScript):** Print için
-- **SVG (Scalable Vector Graphics):** Web için
+❌ **Contraste Insuffisant :**
+- Texte blanc sur fond gris clair
+- Texte bleu marine sur fond bleu électrique
 
-**Raster Formatlar (Sabit Boyut):**
-- **PNG (Transparent):** Web, dijital mecralar (arka plan şeffaf)
-- **JPG (White Background):** E-posta, belgeler (beyaz arka plan)
-- **PDF:** Print, resmi belgeler
+✅ **Utilisation Correcte :**
+- Texte gris foncé sur fond blanc
+- Texte blanc sur fond bleu marine
 
-### 7.2 Dosya Adlandırma Kuralı
+### 6.2 Erreurs de Typographie
+
+❌ **Mauvaise Utilisation de la Police :**
+- Comic Sans ou Times New Roman pour le logo
+- Graisse fine (light) pour les titres
+
+✅ **Utilisation Correcte :**
+- Inter SemiBold pour le logo
+- Inter SemiBold ou Bold pour les titres
+
+### 6.3 Erreurs de Logo
+
+❌ **Déformation des Proportions :**
+- Compression du logo horizontalement ou verticalement
+- Violation de la zone de protection
+
+✅ **Utilisation Correcte :**
+- Mise à l'échelle du logo proportionnellement
+- Laisser une zone de protection suffisante
+
+---
+
+## 7. FORMATS DE FICHIERS ET DISTRIBUTION
+
+### 7.1 Formats de Fichiers du Logo
+
+**Formats Vectoriels (Redimensionnables) :**
+- **AI (Adobe Illustrator) :** Fichier de conception original
+- **EPS (Encapsulated PostScript) :** Pour l'impression
+- **SVG (Scalable Vector Graphics) :** Pour le web
+
+**Formats Raster (Taille Fixe) :**
+- **PNG (Transparent) :** Web, supports digitaux (fond transparent)
+- **JPG (White Background) :** E-mail, documents (fond blanc)
+- **PDF :** Impression, documents officiels
+
+### 7.2 Règle de Nommage des Fichiers
 
 ```
-Netz-Informatique_Logo_[Versiyon]_[Renk]_[Format].[uzantı]
+Netz-Informatique_Logo_[Versiyon]_[Renk]_[Format].[extension]
 
-Örnekler:
+Exemples :
 - Netz-Informatique_Logo_Full_Color_RGB.png
 - Netz-Informatique_Logo_Icon_White_CMYK.eps
 - Netz-Informatique_Logo_Horizontal_Navy_Vector.svg
@@ -443,19 +443,18 @@ Netz-Informatique_Logo_[Versiyon]_[Renk]_[Format].[uzantı]
 
 ---
 
-## 8. İLETİŞİM VE ONAY
+## 8. CONTACT ET APPROBATION
 
-**Grafik Şartnamesi Sorumlusu:**  
+**Responsable de la Charte Graphique :**
 Stratégique Design Studio
 
-**Onay Tarihi:** Ekim 2025
+**Date d'Approbation :** Octobre 2025
 
-**Versiyon:** 1.0
+**Version :** 1.0
 
-**Güncellemeler:**  
-Bu belge, marka kimliğinde yapılan değişikliklere göre güncellenecektir. Tüm güncellemeler, versiyon numarası ile takip edilecektir.
+**Mises à Jour :**
+Ce document sera mis à jour en fonction des modifications apportées à l'identité de la marque. Toutes les mises à jour seront suivies avec un numéro de version.
 
 ---
 
-**Not:** Bu grafik şartnamesi, Netz Informatique'in görsel kimliğinin tutarlı ve profesyonel bir şekilde kullanılmasını sağlamak için hazırlanmıştır. Tüm çalışanlar, iş ortakları ve tedarikçiler bu kurallara uymakla yükümlüdür.
-
+**Note :** Cette Charte Graphique a été préparée pour assurer que l'identité visuelle de Netz Informatique soit utilisée de manière cohérente et professionnelle. Tous les employés, partenaires commerciaux et fournisseurs sont tenus de respecter ces règles.

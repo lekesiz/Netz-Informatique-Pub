@@ -1,49 +1,49 @@
-# Netz Informatique - Marka Kimliği ve Görsel Tasarım Projesi
+# Netz Informatique - Projet d'Identité de Marque et de Design Visuel
 
-## Proje Hakkında
+## À propos du projet
 
-Bu proje, **Netz Informatique** için stratejik bir marka kimliği ve görsel tasarım çalışmasıdır. Benoît Ferry'nin öğrettiği kapsamlı metodoloji temel alınarak hazırlanmıştır.
+Ce projet est une étude stratégique d'identité de marque et de design visuel pour **Netz Informatique**. Il a été préparé en se basant sur la méthodologie complète enseignée par Benoît Ferry.
 
-## Proje Yapısı
+## Structure du projet
 
 ```
 Netz-Informatique-Pub/
-├── research/                    # Sektörel araştırma ve rakip analizi
-├── strategy/                    # Stratejik analiz ve gerekçelendirme
-├── designs/                     # Logo tasarımları ve konseptler
-├── charte-graphique/           # Grafik şartnamesi
-├── mockups/                    # Uygulama örnekleri
-├── final-report/               # Nihai rapor ve sunumlar
-└── website-prototype/          # Web sitesi prototipi (React + Tailwind)
+├── research/                    # Recherche sectorielle et analyse concurrentielle
+├── strategy/                    # Analyse stratégique et justification
+├── designs/                     # Conceptions de logo et concepts
+├── charte-graphique/           # Charte graphique
+├── mockups/                    # Exemples d'application
+├── final-report/               # Rapport final et présentations
+└── website-prototype/          # Prototype de site web (React + Tailwind)
 ```
 
-## Çalışma Aşamaları
+## Étapes de travail
 
-### I. Ajansın Konumlandırılması ve İletişim (ÉTAPE 1)
-- Ajans tanıtımı ve hizmet felsefesi
-- Müşteri brief'inin yeniden formülasyonu
-- Stratejik sorun/çözüm ekseni
+### I. Positionnement de l'Agence et Communication (ÉTAPE 1)
+- Présentation de l'agence et philosophie de service
+- Reformulation du brief client
+- Axe stratégique problème/solution
 
-### II. Stratejik Analiz ve Gerekçelendirme (ÉTAPE 2 & RÉFLEXION)
-- Sektörel grafik çalışma ve rakip analizi
-- Logo kategorizasyonu (Geleneksel/Kalkan, Soyut/Hız, Minimalist/Modern)
-- Fikir eksenleri geliştirme
+### II. Analyse Stratégique et Justification (ÉTAPE 2 & RÉFLEXION)
+- Étude graphique sectorielle et analyse concurrentielle
+- Catégorisation des logos (Traditionnel/Bouclier, Abstrait/Vitesse, Minimaliste/Moderne)
+- Développement des axes d'idées
 
-### III. Tasarım ve Kontrollü Sunum (ÉTAPE 4-6)
-- En az 3 logo konsepti
-- Tipografi ve renk felsefesi
-- Proaktif uygulama alanları önerisi
+### III. Design et Présentation Contrôlée (ÉTAPE 4-6)
+- Au moins 3 concepts de logo
+- Philosophie typographique et chromatique
+- Proposition proactive de domaines d'application
 
-### IV. Nihai Teslimatlar (FINAL ÇIKTILAR)
-- Mock-up'lar ve uygulama örnekleri
-- Charte Graphique Complète (Grafik Şartnamesi)
-- Teknik kurallar ve görsel elementler
+### IV. Livrables Finaux (FINAL OUTPUTS)
+- Mock-ups et exemples d'application
+- Charte Graphique Complète
+- Règles techniques et éléments visuels
 
-## Proje Mesajı
+## Message du projet
 
-> **"Biz, Netz Informatique'i sadece boyayan bir firma değil, onu dijital çağda güvenilir ve modern bir lider olarak konumlandıran stratejik bir ajansız."**
+> **"Nous ne sommes pas une simple entreprise qui peint Netz Informatique, mais une agence stratégique qui la positionne comme un leader fiable et moderne à l'ère numérique."**
 
-## Lisans
+## Licence
 
-Bu proje Netz Informatique için özel olarak hazırlanmıştır.
+Ce projet a été spécialement préparé pour Netz Informatique.
 

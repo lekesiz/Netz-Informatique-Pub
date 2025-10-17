@@ -1,283 +1,282 @@
-# Netz Informatique - Uygulama Örnekleri ve Mock-up Stratejisi
+# Netz Informatique - Exemples d'Application et Stratégie de Mock-up
 
-## Giriş
+## Introduction
 
-Bu belge, Netz Informatique'in yeni görsel kimliğinin **somut mecralarda** nasıl uygulanacağını göstermektedir. Uygulama örnekleri, müşterinin aklına gelmeyen ancak **ekstra değer** yaratan kullanım alanlarını da içermektedir.
-
----
-
-## 1. KURUMSAL KİMLİK UYGULAMALARI
-
-### 1.1 Kartvizit
-
-**Ön Yüz Tasarımı:**
-
-Kartvizit tasarımı, **minimalist ve profesyonel** bir yaklaşım benimser. Ön yüzde, sol üst köşede **logo (tam versiyon)** yer alır. Ortada, çalışanın **ismi (Inter SemiBold, 18pt, Lacivert)** ve **ünvanı (Inter Regular, 12pt, Koyu Gri)** bulunur. Alt kısımda, **iletişim bilgileri (telefon, e-posta, web sitesi)** Inter Regular (10pt, Koyu Gri) ile yazılır.
-
-**Arka Yüz Tasarımı:**
-
-Arka yüz, **lacivert (#1A2B4A) arka plan** üzerine **beyaz logo (ters versiyon)** kullanır. Sağ alt köşede, **altıgen ağ yapısı** (logo simgesi) büyük boyutta, hafif opaklıkta (20%) arka plan deseni olarak yer alır. Bu, kartın arka yüzünü **görsel olarak zenginleştirir** ve marka kimliğini pekiştirir.
-
-**Teknik Özellikler:**
-- Boyut: 85x55mm (standart)
-- Kağıt: 350gsm mat kuşe
-- Baskı: Çift yönlü, CMYK
-
-**Stratejik Değer:**  
-Kartvizit, **ilk temas noktası** olarak kritik öneme sahiptir. Minimalist tasarım, **profesyonellik ve güvenilirlik** mesajını güçlendirir, aynı zamanda **akılda kalıcılık** sağlar.
+Ce document montre comment la nouvelle identité visuelle de Netz Informatique sera appliquée dans des **contextes concrets**. Les exemples d'application incluent des cas d'utilisation auxquels le client ne pense pas nécessairement, mais qui créent une **valeur ajoutée**.
 
 ---
 
-### 1.2 Antetli Kağıt
+## 1. APPLICATIONS DE L'IDENTITÉ VISUELLE
 
-**Üst Bölüm:**
+### 1.1 Carte de Visite
 
-Sayfanın üst kısmında, sol köşede **logo (yatay versiyon)** yer alır. Sağ köşede, **şirket bilgileri (adres, telefon, e-posta, web sitesi)** Inter Regular (9pt, Koyu Gri) ile yazılır. Logo ile şirket bilgileri arasında, **elektrik mavisi (#00A8E8) ince bir çizgi (1pt)** bulunur.
+**Design de la Face Avant :**
 
-**Alt Bölüm:**
+Le design de la carte de visite adopte une approche **minimaliste et professionnelle**. Sur la face avant, le **logo (version complète)** est situé dans le coin supérieur gauche. Au centre, figurent le **nom de l'employé (Inter SemiBold, 18pt, Lacivert)** et son **titre (Inter Regular, 12pt, Koyu Gri)**. En bas, les **informations de contact (téléphone, e-mail, site web)** sont écrites en Inter Regular (10pt, Koyu Gri).
 
-Sayfanın alt kısmında, **footer** bölümünde, merkeze hizalanmış olarak **web sitesi ve sosyal medya ikonları** yer alır. İkonlar, **elektrik mavisi (#00A8E8)** rengindedir.
+**Design de la Face Arrière :**
 
-**Teknik Özellikler:**
-- Boyut: A4 (210x297mm)
-- Kağıt: 90gsm beyaz ofis kağıdı
-- Baskı: Tek yönlü, CMYK
+La face arrière utilise un **fond bleu marine (#1A2B4A)** avec un **logo blanc (version inversée)**. Dans le coin inférieur droit, la **structure hexagonale** (icône du logo) est placée en grand format, avec une légère opacité (20%) comme motif de fond. Cela **enrichit visuellement** la face arrière de la carte et renforce l'identité de la marque.
 
-**Stratejik Değer:**  
-Antetli kağıt, **resmi yazışmalarda** kullanılır ve şirketin **profesyonelliğini** yansıtır. Minimalist tasarım, **içeriğe odaklanmayı** sağlar, aynı zamanda marka kimliğini güçlendirir.
+**Spécifications Techniques :**
+- Dimensions : 85x55mm (standard)
+- Papier : 350gsm couché mat
+- Impression : Recto verso, CMYK
 
----
-
-### 1.3 Zarf
-
-**Ön Yüz:**
-
-Zarfın sol üst köşesinde, **logo (küçük, tam versiyon)** yer alır. Sağ alt köşede, **adres alanı** boş bırakılır (posta için). Logo altında, **şirket adresi** Inter Regular (8pt, Koyu Gri) ile yazılır.
-
-**Arka Yüz:**
-
-Zarfın arka yüzünde, kapak kısmında, **elektrik mavisi (#00A8E8) dikey şerit (10mm genişlik)** yer alır. Şerit üzerinde, **beyaz logo (ters versiyon, küçük)** merkeze hizalanmış olarak bulunur.
-
-**Teknik Özellikler:**
-- Boyut: C4 (229x324mm) veya DL (110x220mm)
-- Kağıt: 100gsm beyaz zarf kağıdı
-- Baskı: Çift yönlü, CMYK
-
-**Stratejik Değer:**  
-Zarf, **marka tutarlılığını** sağlar ve **profesyonel bir izlenim** bırakır. Arka yüzdeki elektrik mavisi şerit, **farklılaşma** sağlar ve zarfın **akılda kalıcılığını** artırır.
+**Valeur Stratégique :**
+La carte de visite est d'une importance capitale en tant que **premier point de contact**. Un design minimaliste renforce le message de **professionnalisme et de fiabilité**, tout en assurant une **mémorisation** efficace.
 
 ---
 
-### 1.4 Çalışan Önlükleri / T-Shirt
+### 1.2 Papier à En-tête
 
-**Tasarım:**
+**Partie Supérieure :**
 
-Çalışan önlükleri veya t-shirtlerde, **sol göğüs** bölgesinde **logo (tam versiyon, küçük boyut)** yer alır. Arka yüzde, **sırt** bölgesinde, **büyük logo işareti (sadece simge)** merkeze hizalanmış olarak bulunur.
+Dans la partie supérieure de la page, le **logo (version horizontale)** est situé dans le coin gauche. Dans le coin droit, les **informations de l'entreprise (adresse, téléphone, e-mail, site web)** sont écrites en Inter Regular (9pt, Koyu Gri). Une **fine ligne bleu électrique (#00A8E8) (1pt)** se trouve entre le logo et les informations de l'entreprise.
 
-**Renk Seçenekleri:**
-- **Seçenek 1:** Lacivert kumaş + Beyaz logo (ters versiyon)
-- **Seçenek 2:** Beyaz kumaş + Lacivert logo (ana versiyon)
+**Partie Inférieure :**
 
-**Teknik Özellikler:**
-- Baskı: Serigrafi veya DTG (Direct-to-Garment)
-- Kumaş: %100 pamuk veya pamuk-polyester karışımı
+Dans la partie inférieure de la page, dans la section **footer**, se trouvent les **icônes du site web et des réseaux sociaux**, alignées au centre. Les icônes sont de couleur **bleu électrique (#00A8E8)**.
 
-**Stratejik Değer:**  
-Çalışan kıyafetleri, **marka görünürlüğünü** artırır ve **ekip ruhunu** güçlendirir. Müşteri ziyaretlerinde, etkinliklerde ve fuarlarda **profesyonel bir görünüm** sağlar.
+**Spécifications Techniques :**
+- Dimensions : A4 (210x297mm)
+- Papier : 90gsm papier offset blanc
+- Impression : Recto, CMYK
 
----
-
-## 2. DİJİTAL MECRALAR
-
-### 2.1 Web Sitesi
-
-**Header (Üst Bölüm):**
-
-Web sitesinin üst kısmında, sol köşede **logo (tam versiyon)** yer alır. Sağ köşede, **navigasyon menüsü** (Ana Sayfa, Hizmetler, Hakkımızda, İletişim) bulunur. Menü öğeleri, **Inter Medium (16px, Koyu Gri)** ile yazılır. Aktif sayfa, **elektrik mavisi (#00A8E8)** renkte vurgulanır.
-
-**Hero Bölümü:**
-
-Ana sayfanın hero bölümünde, **büyük başlık (H1, Inter SemiBold, 48px, Lacivert)** ve **alt başlık (H2, Inter Regular, 24px, Koyu Gri)** yer alır. Arka planda, **hafif opaklıkta (10%) altıgen ağ yapısı deseni** bulunur. Sağ tarafta, **CTA butonu (Call-to-Action)** (örn: "Hizmetlerimizi Keşfedin") **elektrik mavisi arka plan** ve **beyaz metin** ile tasarlanır.
-
-**Footer (Alt Bölüm):**
-
-Web sitesinin alt kısmında, **lacivert (#1A2B4A) arka plan** üzerine **beyaz metin** kullanılır. Sol köşede, **logo (yatay versiyon, beyaz)** yer alır. Ortada, **hızlı linkler** (Hizmetler, Hakkımızda, Gizlilik Politikası) bulunur. Sağ köşede, **sosyal medya ikonları** (LinkedIn, Twitter, Facebook) **elektrik mavisi (#00A8E8)** renkte yer alır.
-
-**Teknik Özellikler:**
-- Responsive tasarım (mobil, tablet, desktop)
-- Renk şeması: Beyaz arka plan, lacivert başlıklar, elektrik mavisi aksan
-- Tipografi: Inter font ailesi
-
-**Stratejik Değer:**  
-Web sitesi, **dijital vitrin** olarak şirketin **profesyonelliğini ve uzmanlığını** yansıtır. Minimalist tasarım, **kullanıcı deneyimini** iyileştirir ve **dönüşüm oranlarını** artırır.
+**Valeur Stratégique :**
+Le papier à en-tête est utilisé dans la **correspondance officielle** et reflète le **professionnalisme** de l'entreprise. Un design minimaliste permet de **se concentrer sur le contenu**, tout en renforçant l'identité de la marque.
 
 ---
 
-### 2.2 Mobil Uygulama
+### 1.3 Enveloppe
 
-**Simge (App Icon):**
+**Face Avant :**
 
-Mobil uygulama simgesi, **logo işareti (sadece simge)** kullanır. Arka plan, **lacivert (#1A2B4A)** renktedir. Simge, **elektrik mavisi (#00A8E8)** renkte altıgen ağ yapısını gösterir.
+Dans le coin supérieur gauche de l'enveloppe, le **logo (petite version complète)** est situé. Dans le coin inférieur droit, la **zone d'adresse** est laissée vide (pour le courrier). Sous le logo, **l'adresse de l'entreprise** est écrite en Inter Regular (8pt, Koyu Gri).
 
-**Splash Screen:**
+**Face Arrière :**
 
-Uygulama açılış ekranında, **lacivert (#1A2B4A) arka plan** üzerine **logo (tam versiyon, beyaz)** merkeze hizalanmış olarak yer alır. Alt kısımda, **yükleme göstergesi (loading indicator)** **elektrik mavisi (#00A8E8)** renkte bulunur.
+Sur la face arrière de l'enveloppe, sur la partie rabat, se trouve une **bande verticale bleu électrique (#00A8E8) (10mm de largeur)**. Sur la bande, un **logo blanc (version inversée, petite)** est aligné au centre.
 
-**Navigasyon:**
+**Spécifications Techniques :**
+- Dimensions : C4 (229x324mm) ou DL (110x220mm)
+- Papier : 100gsm papier enveloppe blanc
+- Impression : Recto verso, CMYK
 
-Uygulama içinde, alt navigasyon barında, **ikonlar** (Ana Sayfa, Hizmetler, Profil, Ayarlar) yer alır. Aktif ikon, **elektrik mavisi (#00A8E8)** renkte vurgulanır. Pasif ikonlar, **orta gri (#B0B0B0)** renktedir.
-
-**Teknik Özellikler:**
-- Platform: iOS ve Android
-- Simge boyutu: 1024x1024px (iOS), 512x512px (Android)
-- Renk şeması: Beyaz arka plan, lacivert başlıklar, elektrik mavisi aksan
-
-**Stratejik Değer:**  
-Mobil uygulama, **müşteri etkileşimini** artırır ve **marka sadakatini** güçlendirir. Tutarlı görsel kimlik, **kullanıcı deneyimini** iyileştirir.
+**Valeur Stratégique :**
+L'enveloppe assure la **cohérence de la marque** et laisse une **impression professionnelle**. La bande bleu électrique à l'arrière permet de **se différencier** et augmente la **mémorisation** de l'enveloppe.
 
 ---
 
-### 2.3 E-posta İmzası
+### 1.4 Blouses / T-Shirts des Employés
 
-**Tasarım:**
+**Design :**
 
-E-posta imzası, **minimalist ve profesyonel** bir yaklaşım benimser. Sol tarafta, **logo (yatay versiyon, küçük)** yer alır. Sağ tarafta, **çalışan bilgileri** (isim, ünvan, telefon, e-posta, web sitesi) bulunur.
+Sur les blouses ou les t-shirts des employés, le **logo (version complète, petite taille)** est situé sur la zone de la **poitrine gauche**. Au dos, sur la zone du **dos**, le **grand symbole du logo (uniquement l'icône)** est aligné au centre.
 
-**Bilgi Hiyerarşisi:**
-- **İsim:** Inter SemiBold (14px, Lacivert)
-- **Ünvan:** Inter Regular (12px, Koyu Gri)
-- **Telefon:** Inter Regular (11px, Koyu Gri)
-- **E-posta:** Inter Regular (11px, Elektrik Mavisi, altı çizili)
-- **Web Sitesi:** Inter Regular (11px, Elektrik Mavisi, altı çizili)
+**Options de Couleur :**
+- **Option 1 :** Tissu bleu marine + Logo blanc (version inversée)
+- **Option 2 :** Tissu blanc + Logo bleu marine (version principale)
 
-**Teknik Özellikler:**
-- Format: HTML (responsive)
-- Boyut: Maksimum 600px genişlik
+**Spécifications Techniques :**
+- Impression : Sérigraphie ou DTG (Direct-to-Garment)
+- Tissu : 100% coton ou mélange coton-polyester
 
-**Stratejik Değer:**  
-E-posta imzası, **her e-posta ile marka görünürlüğünü** artırır. Profesyonel tasarım, **güvenilirlik** mesajını güçlendirir.
+**Valeur Stratégique :**
+Les vêtements des employés augmentent la **visibilité de la marque** et renforcent l'**esprit d'équipe**. Ils offrent une **apparence professionnelle** lors des visites de clients, des événements et des salons.
 
 ---
 
-## 3. PAZARLAMA MATERYALLERİ
+## 2. SUPPORTS NUMÉRIQUES
 
-### 3.1 Broşür
+### 2.1 Site Web
 
-**Kapak:**
+**Header (Partie Supérieure) :**
 
-Broşür kapağında, **üst kısımda logo (tam versiyon)** yer alır. Ortada, **ana başlık (H1, Inter SemiBold, 36pt, Lacivert)** ve **alt başlık (H2, Inter Regular, 18pt, Koyu Gri)** bulunur. Arka planda, **teknoloji temalı görsel** (örn: ağ bağlantıları, veri akışı) hafif opaklıkta (30%) yer alır.
+Dans la partie supérieure du site web, le **logo (version complète)** est situé dans le coin gauche. Dans le coin droit, se trouve le **menu de navigation** (Accueil, Services, À Propos, Contact). Les éléments du menu sont écrits en **Inter Medium (16px, Koyu Gri)**. La page active est mise en évidence en couleur **bleu électrique (#00A8E8)**.
 
-**İç Sayfalar:**
+**Hero Section :**
 
-İç sayfalarda, **başlıklar (H2, Inter SemiBold, 24pt, Lacivert)** ve **gövde metni (Inter Regular, 11pt, Koyu Gri)** kullanılır. Önemli noktalar, **elektrik mavisi (#00A8E8) madde işaretleri** ile vurgulanır. Her sayfanın alt kısmında, **sayfa numarası** ve **küçük logo (yatay versiyon)** yer alır.
+Dans la section hero de la page d'accueil, un **grand titre (H1, Inter SemiBold, 48px, Lacivert)** et un **sous-titre (H2, Inter Regular, 24px, Koyu Gri)** sont situés. En arrière-plan, se trouve un **motif de structure hexagonale légèrement opaque (10%)**. Sur le côté droit, un **bouton CTA (Call-to-Action)** (par exemple : "Découvrez Nos Services") est conçu avec un **fond bleu électrique** et un **texte blanc**.
 
-**Arka Kapak:**
+**Footer (Partie Inférieure) :**
 
-Arka kapakta, **lacivert (#1A2B4A) arka plan** üzerine **beyaz metin** kullanılır. Üst kısımda, **iletişim bilgileri** (adres, telefon, e-posta, web sitesi) bulunur. Alt kısımda, **logo (tam versiyon, beyaz)** merkeze hizalanmış olarak yer alır.
+Dans la partie inférieure du site web, un **fond bleu marine (#1A2B4A)** avec un **texte blanc** est utilisé. Dans le coin gauche, le **logo (version horizontale, blanc)** est situé. Au centre, se trouvent des **liens rapides** (Services, À Propos, Politique de Confidentialité). Dans le coin droit, les **icônes des réseaux sociaux** (LinkedIn, Twitter, Facebook) sont de couleur **bleu électrique (#00A8E8)**.
 
-**Teknik Özellikler:**
-- Boyut: A4 (210x297mm) veya A5 (148x210mm)
-- Kağıt: 150gsm mat kuşe
-- Baskı: Çift yönlü, CMYK
+**Spécifications Techniques :**
+- Design responsive (mobile, tablette, desktop)
+- Schéma de couleurs : Fond blanc, titres bleu marine, accent bleu électrique
+- Typographie : Famille de polices Inter
 
-**Stratejik Değer:**  
-Broşür, **hizmetlerin detaylı tanıtımı** için kullanılır. Profesyonel tasarım, **güvenilirlik ve uzmanlık** mesajını güçlendirir.
-
----
-
-### 3.2 Sunum (PowerPoint / Keynote)
-
-**Ana Slayt (Title Slide):**
-
-Ana slaytın üst kısmında, sağ köşede **logo (tam versiyon, küçük)** yer alır. Ortada, **sunum başlığı (H1, Inter SemiBold, 48pt, Lacivert)** ve **alt başlık (H2, Inter Regular, 24pt, Koyu Gri)** bulunur. Arka planda, **hafif opaklıkta (10%) altıgen ağ yapısı deseni** yer alır.
-
-**İçerik Slaytları:**
-
-İçerik slaytlarında, **başlık (H2, Inter SemiBold, 36pt, Lacivert)** üst kısımda yer alır. Gövde metni, **madde işaretleri (elektrik mavisi)** ile düzenlenir. Grafikler ve görseller, **marka renk paletini** (lacivert, elektrik mavisi, açık gri) kullanır.
-
-**Son Slayt (Closing Slide):**
-
-Son slaytın ortasında, **logo (tam versiyon, büyük)** merkeze hizalanmış olarak yer alır. Alt kısımda, **iletişim bilgileri** (telefon, e-posta, web sitesi) bulunur.
-
-**Teknik Özellikler:**
-- Boyut: 16:9 (1920x1080px)
-- Renk şeması: Beyaz arka plan, lacivert başlıklar, elektrik mavisi aksan
-- Tipografi: Inter font ailesi
-
-**Stratejik Değer:**  
-Sunum, **müşteri toplantılarında ve konferanslarda** kullanılır. Tutarlı görsel kimlik, **profesyonellik ve güvenilirlik** mesajını güçlendirir.
+**Valeur Stratégique :**
+Le site web, en tant que **vitrine numérique**, reflète le **professionnalisme et l'expertise** de l'entreprise. Un design minimaliste améliore l'**expérience utilisateur** et augmente les **taux de conversion**.
 
 ---
 
-## 4. PROAKTIF UYGULAMA ÖNERİLERİ
+### 2.2 Application Mobile
 
-### 4.1 Güvenlik Raporu Tasarımı
+**Icône (App Icon) :**
 
-**Konsept:**
+L'icône de l'application mobile utilise le **symbole du logo (uniquement l'icône)**. L'arrière-plan est de couleur **bleu marine (#1A2B4A)**. L'icône montre la structure hexagonale en couleur **bleu électrique (#00A8E8)**.
 
-Netz Informatique'in sunduğu **güvenlik raporları**, müşterilere gönderilen kritik belgelerdir. Bu raporların **profesyonel ve okunabilir** olması, şirketin **uzmanlığını** yansıtır.
+**Splash Screen :**
 
-**Tasarım Önerileri:**
-- **Kapak:** Logo, rapor başlığı, tarih, müşteri adı
-- **İç Sayfalar:** Başlıklar (lacivert), grafikler (elektrik mavisi), tablolar (açık gri arka plan)
-- **Footer:** Sayfa numarası, logo (küçük)
+Sur l'écran de démarrage de l'application, un **fond bleu marine (#1A2B4A)** avec le **logo (version complète, blanc)** aligné au centre est situé. En bas, un **indicateur de chargement (loading indicator)** est de couleur **bleu électrique (#00A8E8)**.
 
-**Stratejik Değer:**  
-Profesyonel rapor tasarımı, **müşteri memnuniyetini** artırır ve **marka algısını** güçlendirir.
+**Navigation :**
 
----
+Dans l'application, une barre de navigation inférieure contient des **icônes** (Accueil, Services, Profil, Paramètres). L'icône active est mise en évidence en couleur **bleu électrique (#00A8E8)**. Les icônes passives sont de couleur **gris moyen (#B0B0B0)**.
 
-### 4.2 Sosyal Medya Görselleri
+**Spécifications Techniques :**
+- Plateforme : iOS et Android
+- Taille de l'icône : 1024x1024px (iOS), 512x512px (Android)
+- Schéma de couleurs : Fond blanc, titres bleu marine, accent bleu électrique
 
-**Konsept:**
-
-Sosyal medya, **marka görünürlüğünü** artırmak için kritik bir kanaldır. Tutarlı görsel kimlik, **marka tanınırlığını** güçlendirir.
-
-**Tasarım Önerileri:**
-- **Profil Fotoğrafı:** Logo işareti (sadece simge)
-- **Kapak Fotoğrafı:** Logo (tam versiyon), slogan, arka plan (altıgen ağ yapısı deseni)
-- **Gönderi Görselleri:** Başlık (lacivert), görsel (teknoloji temalı), logo (küçük, sağ alt köşe)
-
-**Platform Boyutları:**
-- **LinkedIn Profil:** 400x400px
-- **LinkedIn Kapak:** 1584x396px
-- **Twitter Profil:** 400x400px
-- **Twitter Kapak:** 1500x500px
-
-**Stratejik Değer:**  
-Sosyal medya görselleri, **marka tutarlılığını** sağlar ve **dijital varlığı** güçlendirir.
+**Valeur Stratégique :**
+L'application mobile augmente l'**interaction client** et renforce la **fidélité à la marque**. Une identité visuelle cohérente améliore l'**expérience utilisateur**.
 
 ---
 
-### 4.3 E-posta Bülteni (Newsletter)
+### 2.3 Signature d'E-mail
 
-**Konsept:**
+**Design :**
 
-E-posta bültenleri, **müşteri etkileşimini** artırmak ve **güncellemeleri paylaşmak** için kullanılır.
+La signature d'e-mail adopte une approche **minimaliste et professionnelle**. Sur le côté gauche, le **logo (version horizontale, petite)** est situé. Sur le côté droit, les **informations de l'employé** (nom, titre, téléphone, e-mail, site web) sont situées.
 
-**Tasarım Önerileri:**
-- **Header:** Logo (tam versiyon), bülten başlığı
-- **İçerik:** Başlıklar (lacivert), gövde metni (koyu gri), CTA butonları (elektrik mavisi)
-- **Footer:** İletişim bilgileri, sosyal medya ikonları, abonelik iptali linki
+**Hiérarchie de l'Information :**
+- **Nom :** Inter SemiBold (14px, Lacivert)
+- **Titre :** Inter Regular (12px, Koyu Gri)
+- **Téléphone :** Inter Regular (11px, Koyu Gri)
+- **E-mail :** Inter Regular (11px, Elektrik Mavisi, souligné)
+- **Site Web :** Inter Regular (11px, Elektrik Mavisi, souligné)
 
-**Teknik Özellikler:**
-- Format: HTML (responsive)
-- Genişlik: Maksimum 600px
+**Spécifications Techniques :**
+- Format : HTML (responsive)
+- Taille : Largeur maximale de 600px
 
-**Stratejik Değer:**  
-E-posta bültenleri, **müşteri sadakatini** artırır ve **marka farkındalığını** güçlendirir.
-
----
-
-## 5. SONUÇ
-
-Netz Informatique'in yeni görsel kimliği, **tüm mecralarda tutarlı ve profesyonel** bir şekilde uygulanmalıdır. Bu belge, **somut uygulama örnekleri** sunarak, marka kimliğinin **nasıl hayata geçirileceğini** göstermektedir.
-
-**Proaktif yaklaşım**, müşterinin aklına gelmeyen ancak **ekstra değer** yaratan kullanım alanlarını da içermektedir. Bu, ajansın **stratejik ortaklık** rolünü pekiştirir ve müşteri memnuniyetini artırır.
+**Valeur Stratégique :**
+La signature d'e-mail augmente la **visibilité de la marque avec chaque e-mail**. Un design professionnel renforce le message de **fiabilité**.
 
 ---
 
-**Hazırlayan:** Stratégique Design Studio  
-**Tarih:** Ekim 2025  
-**Proje:** Netz Informatique Uygulama Örnekleri
+## 3. MATÉRIEL DE MARKETING
 
+### 3.1 Brochure
+
+**Couverture :**
+
+Sur la couverture de la brochure, le **logo (version complète)** est situé dans la partie supérieure. Au centre, le **titre principal (H1, Inter SemiBold, 36pt, Lacivert)** et le **sous-titre (H2, Inter Regular, 18pt, Koyu Gri)** sont situés. En arrière-plan, une **image sur le thème de la technologie** (par exemple : connexions réseau, flux de données) est légèrement opaque (30%).
+
+**Pages Intérieures :**
+
+Sur les pages intérieures, des **titres (H2, Inter SemiBold, 24pt, Lacivert)** et un **corps de texte (Inter Regular, 11pt, Koyu Gri)** sont utilisés. Les points importants sont mis en évidence avec des **puces bleu électrique (#00A8E8)**. En bas de chaque page, le **numéro de page** et le **petit logo (version horizontale)** sont situés.
+
+**Quatrième de Couverture :**
+
+Sur la quatrième de couverture, un **fond bleu marine (#1A2B4A)** avec un **texte blanc** est utilisé. Dans la partie supérieure, les **informations de contact** (adresse, téléphone, e-mail, site web) sont situées. Dans la partie inférieure, le **logo (version complète, blanc)** est aligné au centre.
+
+**Spécifications Techniques :**
+- Dimensions : A4 (210x297mm) ou A5 (148x210mm)
+- Papier : 150gsm couché mat
+- Impression : Recto verso, CMYK
+
+**Valeur Stratégique :**
+La brochure est utilisée pour une **présentation détaillée des services**. Un design professionnel renforce le message de **fiabilité et d'expertise**.
+
+---
+
+### 3.2 Présentation (PowerPoint / Keynote)
+
+**Diapositive de Titre (Title Slide) :**
+
+Dans la partie supérieure de la diapositive de titre, le **logo (version complète, petite)** est situé dans le coin droit. Au centre, le **titre de la présentation (H1, Inter SemiBold, 48pt, Lacivert)** et le **sous-titre (H2, Inter Regular, 24pt, Koyu Gri)** sont situés. En arrière-plan, un **motif de structure hexagonale légèrement opaque (10%)** est situé.
+
+**Diapositives de Contenu :**
+
+Sur les diapositives de contenu, un **titre (H2, Inter SemiBold, 36pt, Lacivert)** est situé dans la partie supérieure. Le corps du texte est organisé avec des **puces (bleu électrique)**. Les graphiques et les visuels utilisent la **palette de couleurs de la marque** (bleu marine, bleu électrique, gris clair).
+
+**Dernière Diapositive (Closing Slide) :**
+
+Au centre de la dernière diapositive, le **logo (version complète, grand)** est aligné au centre. Dans la partie inférieure, les **informations de contact** (téléphone, e-mail, site web) sont situées.
+
+**Spécifications Techniques :**
+- Dimensions : 16:9 (1920x1080px)
+- Schéma de couleurs : Fond blanc, titres bleu marine, accent bleu électrique
+- Typographie : Famille de polices Inter
+
+**Valeur Stratégique :**
+La présentation est utilisée lors des **réunions clients et des conférences**. Une identité visuelle cohérente renforce le message de **professionnalisme et de fiabilité**.
+
+---
+
+## 4. SUGGESTIONS D'APPLICATIONS PROACTIVES
+
+### 4.1 Design de Rapport de Sécurité
+
+**Concept :**
+
+Les **rapports de sécurité** proposés par Netz Informatique sont des documents essentiels envoyés aux clients. Le fait que ces rapports soient **professionnels et lisibles** reflète l'**expertise** de l'entreprise.
+
+**Suggestions de Design :**
+- **Couverture :** Logo, titre du rapport, date, nom du client
+- **Pages Intérieures :** Titres (bleu marine), graphiques (bleu électrique), tableaux (fond gris clair)
+- **Footer :** Numéro de page, logo (petit)
+
+**Valeur Stratégique :**
+Un design de rapport professionnel augmente la **satisfaction du client** et renforce la **perception de la marque**.
+
+---
+
+### 4.2 Visuels pour les Réseaux Sociaux
+
+**Concept :**
+
+Les réseaux sociaux sont un canal essentiel pour augmenter la **visibilité de la marque**. Une identité visuelle cohérente renforce la **reconnaissance de la marque**.
+
+**Suggestions de Design :**
+- **Photo de Profil :** Symbole du logo (uniquement l'icône)
+- **Photo de Couverture :** Logo (version complète), slogan, arrière-plan (motif de structure hexagonale)
+- **Visuels des Posts :** Titre (bleu marine), visuel (sur le thème de la technologie), logo (petit, coin inférieur droit)
+
+**Dimensions des Plateformes :**
+- **Profil LinkedIn :** 400x400px
+- **Couverture LinkedIn :** 1584x396px
+- **Profil Twitter :** 400x400px
+- **Couverture Twitter :** 1500x500px
+
+**Valeur Stratégique :**
+Les visuels des réseaux sociaux assurent la **cohérence de la marque** et renforcent la **présence numérique**.
+
+---
+
+### 4.3 Newsletter
+
+**Concept :**
+
+Les newsletters sont utilisées pour augmenter l'**interaction client** et **partager les mises à jour**.
+
+**Suggestions de Design :**
+- **Header :** Logo (version complète), titre de la newsletter
+- **Contenu :** Titres (bleu marine), corps du texte (gris foncé), boutons CTA (bleu électrique)
+- **Footer :** Informations de contact, icônes des réseaux sociaux, lien de désabonnement
+
+**Spécifications Techniques :**
+- Format : HTML (responsive)
+- Largeur : Maximum 600px
+
+**Valeur Stratégique :**
+Les newsletters augmentent la **fidélité du client** et la **notoriété de la marque**.
+
+---
+
+## 5. CONCLUSION
+
+La nouvelle identité visuelle de Netz Informatique doit être appliquée de manière **cohérente et professionnelle sur tous les supports**. Ce document présente des **exemples d'application concrets**, montrant **comment l'identité de la marque peut être mise en œuvre**.
+
+Une **approche proactive** inclut des cas d'utilisation auxquels le client ne pense pas nécessairement, mais qui créent une **valeur ajoutée**. Cela renforce le rôle de l'agence en tant que **partenaire stratégique** et augmente la satisfaction du client.
+
+---
+
+**Préparé par :** Stratégique Design Studio
+**Date :** Ekim 2025
+**Projet :** Netz Informatique Uygulama Örnekleri
