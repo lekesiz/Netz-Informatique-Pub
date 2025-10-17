@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .navy { fill: #1A2B4A; }
+      .electric-blue { fill: #00A8E8; }
+      .navy-stroke { stroke: #1A2B4A; stroke-width: 2; fill: none; }
+      .electric-stroke { stroke: #00A8E8; stroke-width: 1.5; fill: none; }
+      .text-navy { 
+        font-family: 'Inter', 'Arial', sans-serif; 
+        font-weight: 600; 
+        fill: #1A2B4A; 
+      }
+      .text-subtitle { 
+        font-family: 'Inter', 'Arial', sans-serif; 
+        font-weight: 400; 
+        fill: #1A2B4A; 
+        font-size: 14px;
+      }
+    </style>
+  </defs>
+  
+  <!-- Logo Icon (Hexagonal Network) -->
+  <g id="logo-icon" transform="translate(20, 40)">
+    <!-- Hexagone central -->
+    <polygon class="navy" 
+             points="60,30 85,45 85,75 60,90 35,75 35,45"/>
+    
+    <!-- Petits hexagones -->
+    <polygon class="electric-blue" 
+             points="60,10 70,16 70,28 60,34 50,28 50,16" opacity="0.8"/>
+    <polygon class="electric-blue" 
+             points="100,35 110,41 110,53 100,59 90,53 90,41" opacity="0.8"/>
+    <polygon class="electric-blue" 
+             points="100,85 110,91 110,103 100,109 90,103 90,91" opacity="0.8"/>
+    <polygon class="electric-blue" 
+             points="60,110 70,116 70,128 60,134 50,128 50,116" opacity="0.8"/>
+    <polygon class="electric-blue" 
+             points="20,85 30,91 30,103 20,109 10,103 10,91" opacity="0.8"/>
+    <polygon class="electric-blue" 
+             points="20,35 30,41 30,53 20,59 10,53 10,41" opacity="0.8"/>
+    
+    <!-- Lignes de connexion -->
+    <line class="electric-stroke" x1="60" y1="30" x2="60" y2="34" opacity="0.6"/>
+    <line class="electric-stroke" x1="85" y1="45" x2="100" y2="59" opacity="0.6"/>
+    <line class="electric-stroke" x1="85" y1="75" x2="100" y2="85" opacity="0.6"/>
+    <line class="electric-stroke" x1="60" y1="90" x2="60" y2="110" opacity="0.6"/>
+    <line class="electric-stroke" x1="35" y1="75" x2="20" y2="85" opacity="0.6"/>
+    <line class="electric-stroke" x1="35" y1="45" x2="20" y2="59" opacity="0.6"/>
+    
+    <!-- Nœud central -->
+    <circle cx="60" cy="60" r="3" class="electric-blue"/>
+  </g>
+  
+  <!-- Texte du logo -->
+  <g id="logo-text">
+    <!-- NETZ -->
+    <text x="160" y="90" class="text-navy" font-size="48" letter-spacing="2">NETZ</text>
+    
+    <!-- INFORMATIQUE -->
+    <text x="160" y="125" class="text-navy" font-size="24" letter-spacing="4">INFORMATIQUE</text>
+    
+    <!-- Tagline (optionnel) -->
+    <text x="160" y="145" class="text-subtitle" opacity="0.7">Solutions IT & Cybersécurité</text>
+  </g>
+</svg>
+

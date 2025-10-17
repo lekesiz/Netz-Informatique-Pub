@@ -15,6 +15,7 @@ Netz-Informatique-Pub/
 ├── mockups/                    # Exemples d'application
 ├── final-report/               # Rapport final et présentations
 └── website-prototype/          # Prototype de site web (React + Tailwind)
+└── vector-files/              # Fichiers vectoriels (SVG, AI, EPS)
 ```
 
 ## Étapes de travail

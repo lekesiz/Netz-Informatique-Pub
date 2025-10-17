@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .navy { fill: #1A2B4A; }
+      .electric-blue { fill: #00A8E8; }
+      .navy-stroke { stroke: #1A2B4A; stroke-width: 3; fill: none; }
+      .electric-stroke { stroke: #00A8E8; stroke-width: 2; fill: none; }
+    </style>
+  </defs>
+  
+  <!-- Nœud central (cercle principal) -->
+  <circle cx="200" cy="200" r="60" class="navy"/>
+  
+  <!-- Cercle intérieur (sécurité) -->
+  <circle cx="200" cy="200" r="40" class="electric-blue" opacity="0.3"/>
+  
+  <!-- Points de connexion radiaux (6 directions) -->
+  <g id="connection-nodes">
+    <!-- Haut -->
+    <circle cx="200" cy="80" r="15" class="electric-blue"/>
+    <line class="electric-stroke" x1="200" y1="140" x2="200" y2="95" opacity="0.7"/>
+    
+    <!-- Haut-droit -->
+    <circle cx="304" cy="140" r="15" class="electric-blue"/>
+    <line class="electric-stroke" x1="252" y1="170" x2="289" y2="147" opacity="0.7"/>
+    
+    <!-- Bas-droit -->
+    <circle cx="304" cy="260" r="15" class="electric-blue"/>
+    <line class="electric-stroke" x1="252" y1="230" x2="289" y2="253" opacity="0.7"/>
+    
+    <!-- Bas -->
+    <circle cx="200" cy="320" r="15" class="electric-blue"/>
+    <line class="electric-stroke" x1="200" y1="260" x2="200" y2="305" opacity="0.7"/>
+    
+    <!-- Bas-gauche -->
+    <circle cx="96" cy="260" r="15" class="electric-blue"/>
+    <line class="electric-stroke" x1="148" y1="230" x2="111" y2="253" opacity="0.7"/>
+    
+    <!-- Haut-gauche -->
+    <circle cx="96" cy="140" r="15" class="electric-blue"/>
+    <line class="electric-stroke" x1="148" y1="170" x2="111" y2="147" opacity="0.7"/>
+  </g>
+  
+  <!-- Icône de sécurité au centre -->
+  <g id="security-icon" transform="translate(200, 200)">
+    <path d="M -15,-20 L 0,-30 L 15,-20 L 15,10 Q 15,20 0,25 Q -15,20 -15,10 Z" 
+          fill="none" stroke="#FFFFFF" stroke-width="2" opacity="0.8"/>
+  </g>
+</svg>
+
